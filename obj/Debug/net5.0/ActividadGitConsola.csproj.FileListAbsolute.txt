@@ -1,0 +1,16 @@
+C:\Users\jazmi\Desktop\GIT\Segundo Parcial\ActividadGitConsola\bin\Debug\net5.0\ActividadGitConsola.exe
+C:\Users\jazmi\Desktop\GIT\Segundo Parcial\ActividadGitConsola\bin\Debug\net5.0\ActividadGitConsola.deps.json
+C:\Users\jazmi\Desktop\GIT\Segundo Parcial\ActividadGitConsola\bin\Debug\net5.0\ActividadGitConsola.runtimeconfig.json
+C:\Users\jazmi\Desktop\GIT\Segundo Parcial\ActividadGitConsola\bin\Debug\net5.0\ActividadGitConsola.runtimeconfig.dev.json
+C:\Users\jazmi\Desktop\GIT\Segundo Parcial\ActividadGitConsola\bin\Debug\net5.0\ActividadGitConsola.dll
+C:\Users\jazmi\Desktop\GIT\Segundo Parcial\ActividadGitConsola\bin\Debug\net5.0\ref\ActividadGitConsola.dll
+C:\Users\jazmi\Desktop\GIT\Segundo Parcial\ActividadGitConsola\bin\Debug\net5.0\ActividadGitConsola.pdb
+C:\Users\jazmi\Desktop\GIT\Segundo Parcial\ActividadGitConsola\obj\Debug\net5.0\ActividadGitConsola.csproj.AssemblyReference.cache
+C:\Users\jazmi\Desktop\GIT\Segundo Parcial\ActividadGitConsola\obj\Debug\net5.0\ActividadGitConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jazmi\Desktop\GIT\Segundo Parcial\ActividadGitConsola\obj\Debug\net5.0\ActividadGitConsola.AssemblyInfoInputs.cache
+C:\Users\jazmi\Desktop\GIT\Segundo Parcial\ActividadGitConsola\obj\Debug\net5.0\ActividadGitConsola.AssemblyInfo.cs
+C:\Users\jazmi\Desktop\GIT\Segundo Parcial\ActividadGitConsola\obj\Debug\net5.0\ActividadGitConsola.csproj.CoreCompileInputs.cache
+C:\Users\jazmi\Desktop\GIT\Segundo Parcial\ActividadGitConsola\obj\Debug\net5.0\ActividadGitConsola.dll
+C:\Users\jazmi\Desktop\GIT\Segundo Parcial\ActividadGitConsola\obj\Debug\net5.0\ref\ActividadGitConsola.dll
+C:\Users\jazmi\Desktop\GIT\Segundo Parcial\ActividadGitConsola\obj\Debug\net5.0\ActividadGitConsola.pdb
+C:\Users\jazmi\Desktop\GIT\Segundo Parcial\ActividadGitConsola\obj\Debug\net5.0\ActividadGitConsola.genruntimeconfig.cache
