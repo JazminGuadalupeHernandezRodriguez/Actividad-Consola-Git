@@ -27,17 +27,18 @@ namespace ActividadGitConsola
             switch (Console.ReadLine())
             {
                 case "a":
-                    Console.WriteLine("Añadir");
+                    Console.WriteLine($"Tu resultado: {n1} + {n2} = " + (n1 + n2));
                     break;
                 case "s":
-                    Console.WriteLine("Subtraer" );
+                    Console.WriteLine($"Tu resultado: {n1} - {n2} = " + (n1 - n2));
                     break;
                 case "m":
-                    Console.WriteLine("Multiplicar" );
+                    Console.WriteLine($"Tu resultado: {n1} * {n2} = " + (n1 * n2));
                     break;
                 case "d":
-                    Console.WriteLine("Dividir" );
+                    Console.WriteLine($"Tu resultado: {n1} / {n2} = " + (n1 / n2));
                     break;
+
             }
             Console.Write("Presione cualquier tecla para cerrar la calculadora");
             Console.ReadKey();
