@@ -16,6 +16,14 @@ namespace ActividadGitConsola
 
             Console.WriteLine("Ingrese otro Numero: ");
             n2 = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Escoja una de las opciones de la lista:");
+            Console.WriteLine("\ta - Añadir");
+            Console.WriteLine("\ts - Subtraer");
+            Console.WriteLine("\tm - Multiplicar");
+            Console.WriteLine("\td - Dividir");
+            Console.Write("Cual es tu opcion? ");
+            
         }
     }
 }
